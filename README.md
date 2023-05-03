@@ -1,7 +1,7 @@
 # CryptoNess
 ---
 <p align="center">
-<img src="logo.png" alt="center" style="width:500px; height:500px"/>
+<img src="logo.png" alt="center" style="width:200px; height:200px"/>
 </p>
 "Introducing CryptoNss, a versatile and powerful tool for encrypting and decrypting sensitive information. CryptoNss utilizes various cryptographic techniques, including Monoalphabetic Cipher, Transposition Cipher, Caesar Cipher, and Vigenere Cipher, to provide a secure means of protecting your data."
 
