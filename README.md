@@ -14,6 +14,14 @@
   cd CryptNess
   pip install -r requirements.txt
 ```
+## :pushpin: Usage :
+---
+✔️`` Python3 skyscan.py``
+
+https://user-images.githubusercontent.com/111459230/236075497-1386063a-b08d-48ee-bd66-15a16e68c433.mp4
+## 📜 Credits :
+---
+
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elmehdi-chbani/)
 
