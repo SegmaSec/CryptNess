@@ -18,7 +18,7 @@
 ---
 ✔️`` Python3 skyscan.py``
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/111459230/236075497-1386063a-b08d-48ee-bd66-15a16e68c433.mp4)
+![ezgif com-video-to-gif(1)](https://user-images.githubusercontent.com/111459230/236076463-5be9b25b-7bbf-4323-b7bc-4f6be611b93f.gif)
 ## 📜 Credits :
 ---
 
