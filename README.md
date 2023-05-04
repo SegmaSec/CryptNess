@@ -16,7 +16,7 @@
 ```
 ## :pushpin: Usage :
 ---
-✔️`` Python3 skyscan.py``
+✔️`` Python3 CryptNess.py``
 
 ![ezgif com-video-to-gif(1)](https://user-images.githubusercontent.com/111459230/236076463-5be9b25b-7bbf-4323-b7bc-4f6be611b93f.gif)
 ## 📜 Credits :
